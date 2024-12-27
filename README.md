@@ -1,6 +1,8 @@
 #  Vladdizlaw #
 
 
+
+
 <!--
 **Vladdizlaw/Vladdizlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋! My name is Vladizlav, fullstack web developer. I also have intresting in Ai, VR, WebXR, WebSecurity.   
+Hi there 👋! My name is Vladizlav, I'm fullstack web developer. I also have intresting in Ai, VR, WebXR, WebSecurity.   
 ## My Skills: ##
 ![w3_html5-ar21](https://github.com/user-attachments/assets/d41adb35-1619-42b1-b79d-75da40a00259)
 ![w3_css-ar21](https://github.com/user-attachments/assets/8f0ce5d7-729a-4dc8-8c20-9f5063ebcf69)
@@ -24,8 +26,10 @@ Hi there 👋! My name is Vladizlav, fullstack web developer. I also have intres
 ![javascript-icon](https://github.com/user-attachments/assets/4d954028-c4cb-49de-be9f-dcad6c2ed13e)
 ![typescriptlang-icon](https://github.com/user-attachments/assets/74273e19-8d9d-4f4c-bdb1-d7d32348bd09)
 ![nodejs-ar21](https://github.com/user-attachments/assets/eb0ca330-da33-4737-a893-35da42664348)
+![express-109](https://github.com/user-attachments/assets/d762181d-6d4e-4942-b324-f235a1eddac8)
 ![vuejs-ar21](https://github.com/user-attachments/assets/190f4e71-f2dd-40bd-a2f6-e66852687f29)
 ![nestjs-ar21](https://github.com/user-attachments/assets/34e4ab08-92dd-47f3-b174-d29af38a47dc)
+![typeorm-seeklogo](https://github.com/user-attachments/assets/78d8ab1f-0eb5-4bdf-8ed4-479c85dc3888)
 ![prisma-2](https://github.com/user-attachments/assets/eba6988b-4075-476f-808b-21c4692d320c)
 ![knex-1](https://github.com/user-attachments/assets/1e5c9951-801f-4121-b343-ca038ff9cede)
 ![postgresql-horizontal](https://github.com/user-attachments/assets/7be68eee-7091-4010-97ab-d9a457107f75)
