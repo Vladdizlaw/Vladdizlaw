@@ -1,7 +1,6 @@
 #  Vladdizlaw #
 
 
-
 <!--
 **Vladdizlaw/Vladdizlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +26,8 @@ Hi there 👋! My name is Vladizlav, fullstack web developer. I also have intres
 ![nodejs-ar21](https://github.com/user-attachments/assets/eb0ca330-da33-4737-a893-35da42664348)
 ![vuejs-ar21](https://github.com/user-attachments/assets/190f4e71-f2dd-40bd-a2f6-e66852687f29)
 ![nestjs-ar21](https://github.com/user-attachments/assets/34e4ab08-92dd-47f3-b174-d29af38a47dc)
+![prisma-2](https://github.com/user-attachments/assets/eba6988b-4075-476f-808b-21c4692d320c)
+![knex-1](https://github.com/user-attachments/assets/1e5c9951-801f-4121-b343-ca038ff9cede)
 ![postgresql-horizontal](https://github.com/user-attachments/assets/7be68eee-7091-4010-97ab-d9a457107f75)
 ![redis-ar21](https://github.com/user-attachments/assets/6bc99391-49ac-4923-9702-5389a86557d1)
 ![rabbitmq-ar21](https://github.com/user-attachments/assets/f0794f2e-53a5-4b2e-acb2-6d5e88850500)
@@ -34,3 +35,4 @@ Hi there 👋! My name is Vladizlav, fullstack web developer. I also have intres
 ![nginx-ar21](https://github.com/user-attachments/assets/8ad87ef9-0d99-4571-9efa-4efc108992e8)
 ![docker-ar21](https://github.com/user-attachments/assets/101a7c82-8732-495f-8ee6-e354d938e6f5)
 
+## GitHub stats: ##
